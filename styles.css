@@ -1,0 +1,53 @@
+.colors1-tag {
+
+    /*background-color: blue;*/
+    color:black;
+    font-size: 43px;
+    font-family: "Microsoft Uighur";
+    font-weight:bold;
+
+}
+
+.colors2-tag {
+
+    /*background-color: blue;*/
+    color:black;
+    font-size: 30px;
+    font-family: "Microsoft Uighur";
+    font-weight:bold;
+
+}
+
+/*p{*/
+/*    font-size: 48px;*/
+/*    font-weight: bold;*/
+/*    border:5px dashed mediumvioletred;*/
+/*    padding: 20px;*/
+/*}*/
+
+.button {
+  border: none;
+  color: #404040;
+  padding: 15px 52px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-family: "Microsoft Uighur";
+}
+
+a:visited {
+  color: #404040;
+}
+.math{
+    text-decoration: none;
+}
+
+.button1 {background-color: #fad1d1;}
+.button2 {background-color: #fafad2;}
+.button3 {background-color: #d1fad1;}
+.button4 {background-color: #d1e6fa;}
+.button5 {background-color: #d1d1fa;}
